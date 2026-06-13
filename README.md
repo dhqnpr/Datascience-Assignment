@@ -1,2 +1,2 @@
 Data Science Course 
-First Assignment 
+Assignments 
